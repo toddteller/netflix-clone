@@ -28,3 +28,12 @@
 .nav__black {
     background-color: #111;
 }
+
+.mytext{
+    margin:auto;
+    top:0;
+    bottom:0;
+    left:0;
+    color:white;
+    -webkit-text-stroke: 1px black;
+}

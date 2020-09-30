@@ -21,7 +21,7 @@ function Nav() {
         className="nav__logo"
         src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
         alt="Netflix Logo"
-      />
+      /> <h3 className="mytext">Developed By Giovanni Aiello</h3>
       <img
         className="nav__avatar"
         src="https://i2.sndcdn.com/avatars-000523322028-uw9xhn-t500x500.jpg"
